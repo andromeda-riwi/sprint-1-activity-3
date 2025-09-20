@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\bin\Debug\net8.0\Sprint-1-activity-3.exe
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\bin\Debug\net8.0\Sprint-1-activity-3.deps.json
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\bin\Debug\net8.0\Sprint-1-activity-3.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\bin\Debug\net8.0\Sprint-1-activity-3.dll
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\bin\Debug\net8.0\Sprint-1-activity-3.pdb
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\Sprint-1-activity-3.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\Sprint-1-activity-3.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\Sprint-1-activity-3.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\Sprint-1-activity-3.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\Sprint-1-activity-3.sourcelink.json
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\Sprint-1-activity-3.dll
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\refint\Sprint-1-activity-3.dll
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\Sprint-1-activity-3.pdb
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\Sprint-1-activity-3.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\emmanuelperez\Ruta_avanzada\Sprint-1-activity-3\obj\Debug\net8.0\ref\Sprint-1-activity-3.dll
